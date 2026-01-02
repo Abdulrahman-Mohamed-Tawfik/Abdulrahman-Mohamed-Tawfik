@@ -15,6 +15,6 @@
 &nbsp;&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg' alt='Facebook' height='30'>]( https://web.facebook.com/Abdulrahman.Mohamed.T)
 # 💻 Tech:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-blue?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)]
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-blue?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mohamed-Tawfik&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
