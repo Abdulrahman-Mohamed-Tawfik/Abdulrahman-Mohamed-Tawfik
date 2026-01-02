@@ -19,4 +19,4 @@
 # 📊 Stats:
 ![](https://github-readme-stats-gamma-ten-60.vercel.app/api/top-langs/?username=Abdulrahman-Mohamed-Tawfik&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats-gamma-ten-60.vercel.app/api?username=Abdulrahman-Mohamed-Tawfik&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats-gamma-ten-60.vercel.app/api?username=Abdulrahman-Mohamed-Tawfi&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-gamma-ten-60.vercel.app/api?username=Abdulrahman-Mohamed-Tawfik&show_icons=true&theme=transparent)
